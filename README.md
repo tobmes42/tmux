@@ -44,8 +44,8 @@ In tmux, hit the prefix `ctrl+b` and then:
 
 ## Panes (splits)
 
-    %  horizontal split
-    "  vertical split
+    |  horizontal split
+    -  vertical split
     
     o  swap panes
     q  show pane numbers
