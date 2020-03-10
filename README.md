@@ -66,3 +66,38 @@ In tmux, hit the prefix `ctrl+b` and then:
     t  big clock
     ?  list shortcuts
     :  prompt
+    
+    
+## Copy mode (vi mode)
+
+    - Prefix [ - start copy mode
+    - Prefix ] - past from copy mode
+    ^ - back to indentation
+    esc - clear selection
+    enter - copy selection
+    j - cursor down
+    h - cursor left
+    l - cursor right
+    k - cursor down
+    L - cursor to bottom line
+    M - cursor to middle line
+    H - cursor to top line
+    d - delete entire line
+    D - delete to end of line
+    $ - end of line
+    : - goto line
+    ⌃-d - half page down
+    ⌃-u - half page up
+    ⌃-f - next page
+    w - next word
+    p - paste buffer
+    ⌃-b - previous page
+    b - previous word
+    q - quit mode
+    ⌃-down, ⌃-j - scroll down
+    ⌃-up, ⌃-k - scroll up
+    n - next search match
+    ? - search backward
+    / - search forward
+    0 - start of line
+    space - start selection
