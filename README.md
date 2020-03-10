@@ -70,8 +70,8 @@ In tmux, hit the prefix `ctrl+b` and then:
     
 ## Copy mode (vi mode)
 
-    - Prefix [ - start copy mode
-    - Prefix ] - past from copy mode
+    Prefix [ - start copy mode
+    Prefix ] - past from copy mode
     ^ - back to indentation
     esc - clear selection
     enter - copy selection
