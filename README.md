@@ -1,5 +1,11 @@
 # tmux
 
+Copy the tmux.conf to your homefolder and make it hidden.
+
+```bash
+cp tmux.conf ~/.tmux.conf
+```
+
 start new:
 
     tmux
